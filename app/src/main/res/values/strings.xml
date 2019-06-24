@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhoneCall</string>
+    <string name="call_button">Make Call</string>
+    <string name="number_field">Enter a Phone Number…</string>
+</resources>
